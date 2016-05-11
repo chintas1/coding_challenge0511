@@ -23,4 +23,5 @@ def hashify(jobs)
   end
 end
 
+#testing
 p hashify(generate_jobs)
